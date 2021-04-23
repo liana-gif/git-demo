@@ -7,6 +7,7 @@ Adding extra line
 this is my first commit on git repository
 This is the seteps how to check out from reposirory 
 Adding extra line
+<<<<<<< HEAD
 
 
 ##############################################
@@ -27,3 +28,8 @@ Adding extra line
 this is my first commit on git repository
 This is the seteps how to check out from reposirory 
 Adding extra line
+=======
+>>>>>>> parent of 781fc12 (Need to delete it later)
+#########################################
+****************************************
+working with branch
